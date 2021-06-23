@@ -33,10 +33,6 @@ sections:
     is_numbered: true
     grid_items:
       - title: Software Consultation
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
       - title: Training
         content: >
           I coach and train people who want to move into the Test Automation
