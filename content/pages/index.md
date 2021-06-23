@@ -32,7 +32,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Web apps
+      - title: Software Consultation
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
