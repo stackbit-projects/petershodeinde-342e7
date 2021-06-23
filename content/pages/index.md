@@ -38,10 +38,14 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
       - title: Training
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          I coach and train people who want to move into the Test Automation
+          space. I was a freelance mentored at Udacity for 2 years helping
+          student in various projects works in Blockchain and React. 
+
+
+          I'm running a training program on Test Automation. You can read more
+          [here](https://petershodeinde.xyz/training)
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
