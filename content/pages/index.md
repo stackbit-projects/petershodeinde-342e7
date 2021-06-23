@@ -7,13 +7,9 @@ sections:
     title: 'Hi, I''m Peter Shodeinde'
     content: >
       Full-stack, Frontend, Test Automation Engineer with 9 years experience
-      working for companies in
-
-
-      **Congrid, PlanMill **and** Seven Networks**. During this period, I
-      developed various UI and Integration testing tools, building web apps. 
-
-
+      working for companies in **Congrid, PlanMill and Seven Networks**. During
+      this period, I developed various UI and Integration testing tools,
+      building web apps.
 
 
       If you need an expert for your project,
