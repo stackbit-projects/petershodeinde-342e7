@@ -67,6 +67,13 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
