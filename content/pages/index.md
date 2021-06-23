@@ -5,9 +5,18 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Peter Shodeinde'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Full-stack, Frontend, Test Automation Engineer with 9 years experience
+      working for companies in
+
+
+      **Congrid, PlanMill **and** Seven Networks**. During this period, I
+      developed various UI and Integration testing tools, building web apps. 
+
+
+
+
+      If you need an expert for your project,
     actions:
       - label: Let's talk
         url: /contact
