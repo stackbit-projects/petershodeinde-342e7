@@ -68,7 +68,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: Blog
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
